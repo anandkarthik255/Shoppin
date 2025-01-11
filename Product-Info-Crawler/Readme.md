@@ -34,6 +34,4 @@ Product-Info-Crawler is a python web crawler developed using scrapy framework. I
 5. Enter the search keyword and click search button
 6. The products found are displayed with images, price and source info
 
- ## Thanks
-Feel free to post issues if you find any problem or contact me [Aishwarya Mittal](https://www.facebook.com/aishhmittal)<br>
-©[MIT License](https://github.com/aishmittal/Product-Info-Crawler/blob/master/LICENSE)
+ 
